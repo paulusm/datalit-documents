@@ -1,0 +1,323 @@
+Comments?
+Like PDK at www.
+facebook.com/pdkintl
+
+Privacy and school data
+
+Ethical and appropriate
+data use requires
+data literacy
+Student data can be a powerful, transformative tool in teaching,
+but to reap those potential benefits practitioners must become
+more data literate.
+By Ellen B. Mandinach, Brennan M. Parton,
+Edith S. Gummer, and rachel anderson
+Teachers know all the terms: data-driven decision making, data-informed decision making, data-based decision making, data use, iterative cycles of inquiry, and
+more. Whatever you call it, data-driven decision making is a hot topic
+in education. It also has become a focal point for strong opinions  
+positive and negative. Policy makers believe student achievement
+will improve when educators use data to inform their teaching.
+Yet the research evidence proving this is inconsistent at best
+(Carlson, Borman, & Robinson, 2011; Hamilton et al., 2009;
+Konstantopoulos, Miller, & van der Ploeg, 2013).
+Many educators worry about the growing emphasis and reliance on data. Some teachers actually refer to data as “the other
+four-letter word”   time being the first one. Teachers say that
+poring over reams of data takes time from where they want to be
+  in the classroom with students. Skepticism abounds, and concerns about how data are used are very real. Some educators
+worry that data are part of the “gotcha,” being used
+to evaluate their performance in unrealistic ways.
+What s more, they say the data they are being required to examine has little utility in their practice.
+ELLEn B. MandInach (emandin@wested.org)
+is senior research scientist and director of the Data
+for Decisions initiative at WestEd, San Francisco,
+Calif. BrEnnan M. Parton is a senior associate,
+state policy and advocacy for Data Quality Campaign,
+Washington, D.C. EdIth S. GUMMEr is a senior
+research associate in the evaluation research program
+at WestEd. rachEL andErSon is a policy analysis
+and research associate at Data Quality Campaign.
+V96 N5
+
+Illustration: Thinkstock/iStock
+
+kappanmagazine.org 25
+
+Downloaded from pdk.sagepub.com at Univ of the West of England on September 11, 2016
+
+K1502_February.indd 25
+
+12/19/14 10:31 AM
+
+Parents and the broader public share those concerns and have raised issues about what data are
+being collected about students, how they are being used, whether they are secure, and who has
+access to them. Data breaches at the federal level
+and in the private sector have garnered media attention and stoked fears. Regulations to guide data
+use and protect the privacy and confidentiality of
+student data exist in the Family Educational Rights
+and Privacy Act (FERPA). But FERPA is not easy
+to understand. Parents likely receive a legal notice
+about FERPA from their school district each year.
+Teachers and administrators likely receive FERPA
+compliance training annually. But such notices and
+training don t help parents and teachers understand
+their rights and roles in protecting student privacy,
+and they sometimes lead to fear that nothing should
+be done with the data.
+
+Ethical and responsible data use is part of
+knowing how to use data, and that knowledge
+focuses on how to protect student privacy and
+maintain confidentiality of student data.
+
+Gummer and Mandinach (in press) have defined a
+construct they call data literacy for teaching:
+The ability to transform information into actionable
+instructional knowledge and practices by collecting,
+analyzing, and interpreting all types of data (assessment, school climate, behavioral, snapshot, longitudinal, moment-to-moment, etc.) to help determine
+instructional steps. It combines an understanding
+of data with standards, disciplinary knowledge and
+practices, curricular knowledge, pedagogical content
+knowledge, and an understanding of how children
+learn.
+
+The construct has three main domains of knowledge, which combine to enable teachers to know
+what the data mean in terms of their content area
+and within a learning progression and then to translate that knowledge into instructional steps.
+• Data use for teaching or what might be
+considered the ability to analyze and use data.
+• Content knowledge or the teacher s understanding of a specific domain or subject.
+• Pedagogical content knowledge (Shulman,
+1986) or the ability to apply knowledge of
+pedagogy in the context of the content area.
+These domains are composed of components
+comprising specific skills that are all part of an inquiry cycle and include:
+• How to identify problems of practice;
+• How to frame questions;
+• How to use data;
+• How to transform data into information;
+• How to transform information into a decision;
+• How to evaluate the outcomes of a decision.
+
+For teachers, using data ethically   in a way that s
+mindful of their responsibility to keep individual student information private   is a requirement of using data effectively. So how do we help educators
+understand their role in protecting student data and
+using data responsibly? The short answer is that they
+need to be data literate.
+data literacy and ethics
+
+Data use is not an isolated event (Earl & Katz,
+2006). Data use should be a continuous, integrated
+part of practice that is used all the time. In fact,
+Mandinach (2012) maintains that good teachers
+have been employing data-driven decision making
+all along   it just hasn t been recognized by that
+term. But there is more work to be done to ensure
+that educators know how to continuously, effectively,
+and ethically use data   that is, to help them to be
+data literate.
+26 Kappan
+
+Ethical and responsible data use is part of knowing
+how to use data, and that knowledge focuses on how
+to protect student privacy and maintain confidentiality of student data. Such knowledge includes how
+and when to discuss students  performance, behavior, attitudes, etc. with other teachers, administrators, and parents. It also includes knowing how to
+remove identifying information from a student record and how to maintain proper student records  
+whether electronic or in paper-and-pencil format. It
+includes knowing who has access to student records
+and when, how, and the process by which to release
+data or results. Responsible data use also includes
+knowing when and when not to discuss a student s
+performance in public.
+Take, for example, two teacher colleagues who run
+into each other in the grocery story checkout line
+and begin talking about a student who s experiencing
+
+February 2015
+
+Downloaded from pdk.sagepub.com at Univ of the West of England on September 11, 2016
+
+K1502_February.indd 26
+
+12/19/14 10:31 AM
+
+taBLE 1.
+
+an assessment of data use practices
+
+Good practice
+
+Practices to avoid
+
+• Using data to differentiate instruction and group
+students.
+
+• Using data to track or label students as unable to
+succeed.
+
+• Using data walls to organize and clearly understand
+student data
+• Using data walls to talk to other teachers about
+what the data show and problems of practice
+• Placing data walls that contain student names
+and other identifiers in rooms accessible only to
+teachers and school leaders
+• Removing student identiﬁers when those data walls
+are moved to common areas
+
+• Hanging data walls with student names and other
+identifiers in classrooms where anyone who comes
+into the room can see them
+• Keeping data walls with student names or other
+identifiers in rooms where the public might see
+them during events or meetings
+
+• Discussing student data at school in collaboration
+with colleagues to set goals and identify problems
+of practice
+
+• Talking about individual student successes and
+challenges in public
+
+• Using student artifacts in collaboration with
+other educators for collaboration and improving
+practice
+
+• Sharing student artifacts outside of an education
+setting, such as on a web site like Pinterest,
+Facebook, or Twitter
+
+• Communicating about an individual student s data
+with his or her parents
+
+• Dismissing parent requests for data, or ignoring
+their concerns about how it will be used
+• Comparing a student s performance to that of other
+individual students in conversations with parents
+
+• Using only secure systems to upload and
+manipulate personally identifiable information, such
+as those provided by the state or district
+
+• Storing or manipulating student data through
+applications like Dropbox, on thumb drives, or in
+email
+
+some difficulties. Someone passes by and overhears
+the teachers  discussion. That is a violation of the student s privacy, even if the teachers didn t mean to do
+so and even if the passerby did not know the student.
+But such a conversation would not be a privacy violation if the teachers were working in a data team or
+a professional learning community, where the expectation is professional discourse about student performance, learning issues, and potential remediation.
+See Table 1 for a more comprehensive assessment
+of data practices.
+These may be fine lines of distinction, but being
+
+data literate requires that teachers know what constitutes responsible data use and what is inappropriate.
+But the characterization of a construct such as data
+literacy in terms of cognitive aspects of knowledge
+and skills is only part of what we need to examine
+to truly understand what teachers need to know and
+be able to do. Educators also need to consider how
+data literacy plays out in teacher identity, values, and
+epistemic beliefs. How teachers see themselves as
+data users   as individualists or part of a team  
+influences what they do. The extent to which data
+use is seen as a valuable addition to teacher practice
+V96 N5
+
+kappanmagazine.org 27
+
+Downloaded from pdk.sagepub.com at Univ of the West of England on September 11, 2016
+
+K1502_February.indd 27
+
+12/19/14 10:31 AM
+
+is important. And what teachers consider important
+data or evidence has real implications for what they
+will use.
+States, districts, and educator preparation programs must do more to promote teacher data literacy and ethical use of data through policy, training,
+and practice.
+
+Responsible data use also includes knowing
+when and when not to discuss a student s
+performance in public.
+
+The setting matters
+
+Data literacy skills can become a powerful tool to
+inform teacher practice. Teachers need to use data,
+and they need to do it foremost in a way that is in
+the interest of their students. Student-focused data
+use includes:
+• Using data to inform instruction;
+• Using access to student data appropriately;
+• Displaying data appropriately; and
+• Disclosing and communicating data
+appropriately.
+
+Conclusion
+
+Data literacy is a critical part of effective teaching, and as the proliferation of data increases, and as
+parent and public concerns about the safety of data
+remain, the ethical use of data must be a focus for
+teachers. Teachers are the front-line communicators
+to parents and their communities about education.
+But as parents and the public at large express concerns over data use in education, they re also demonstrating that they don t fully trust educators to
+use data in ways that benefit students. Teachers have
+a new role to not only explain the value of data to
+parents and the community but also to demonstrate
+that they only and always use information in the best
+interest of students.
+Teachers cannot gain valuable data use skills in a
+vacuum. There is much more to do to provide educators the support they need to access, interpret, act on,
+and communicate data effectively and ethically, and
+this includes promoting data literacy among state and
+district leaders, and in teacher preparation programs.
+Teachers need preservice and ongoing instruction in
+using student data and their role in protecting it  
+training on FERPA compliance alone won t lead to
+ethical data use. All these actors have a role to play to
+be sure that the public and teachers feel comfortable
+that data are a tool for helping students, not tracking,
+labeling, or shaming. 
+K
+References
+Carlson, D., Borman, G.D., & Robinson, M. (2011). A
+multistate district-level cluster randomized trial of the impact of
+data-driven reform on reading and mathematics achievement.
+Educational Evaluation and Policy Analysis, 33 (3), 378-398.
+Earl, L.M. & Katz, S. (2006). Leading schools in a data-rich
+world: Harnessing data for school improvement. Thousand
+Oaks, CA: Corwin Press.
+Gummer, E.S. & Mandinach, E.B. (in press). Building a
+conceptual framework for data literacy. Teachers College
+Record.
+Hamilton, L., Halverson, R., Jackson, S.S., Mandinach,
+E., Supovitz, J.A., & Wayman, J.C. (2009). Using student
+achievement data to support instructional decision making.
+Washington, DC: U.S. Department of Education, Institute of
+Education Sciences, National Center for Education Evaluation.
+Konstantopoulos, S., Miller, S., van der Ploeg, A., Li, C.H.,
+& Traynor, A. (2013). The impact of Indiana s system of
+benchmark assessments on mathematics achievement.
+Educational Evaluation and Policy Analysis, 35 (4), 481-499.
+Mandinach, E.B. (2012). A perfect time for data use: Using
+data-driven decision making to inform practice. Educational
+Psychologist, 47 (2), 71-85.
+
+“Not only did the cat eat my homework, it went viral on
+YouTube.”
+28 Kappan
+
+Shulman, L.S. (1986). Those who understand: Knowledge
+growth in teaching. Educational Researcher, 15 (2), 4-14.
+
+February 2015
+
+Downloaded from pdk.sagepub.com at Univ of the West of England on September 11, 2016
+
+K1502_February.indd 28
+
+12/19/14 10:31 AM
+
+

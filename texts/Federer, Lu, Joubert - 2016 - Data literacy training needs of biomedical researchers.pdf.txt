@@ -1,0 +1,500 @@
+RESEARCH REPORT
+
+Data literacy training needs of biomedical researchers
+Lisa M. Federer, MLIS; Ya-Ling Lu, PhD; Douglas J. Joubert, MS
+See end of article for authors  affiliations.
+
+DOI: http://dx.doi.org/10.3163/1536-5050.104.1.008
+
+Objective: The research investigated topic priorities for data literacy training for biomedical
+researchers and staff.
+Methods: An electronic survey was used to assess researchers  level of knowledge related to data
+literacy skills and the relevance of these skills to their work.
+Results: Most respondents did not have any formal training in data literacy. Respondents considered
+most tasks highly relevant to their work but rated their expertise in tasks lower.
+Conclusion: Among this group, researchers have diverse data literacy training needs. Librarians 
+expertise makes them well suited to provide such training.
+Keywords: Data Curation; Education, Continuing; Library Services; Libraries, Medical; Biomedical
+Research; Data Collection; Information Storage and Retrieval; Information Dissemination
+
+Many libraries have taken on the role of providing
+instruction in data literacy, which can be defined as
+the set of skills and knowledge that   enables
+individuals to access, interpret, critically assess,
+manage, handle and ethically use data   [1, 2].
+Librarians  expertise and training in skills like
+metadata, searching and discovery, archiving and
+preservation, and knowledge management should
+make them ideal partners for researchers who need
+to learn to apply these skills to their own data.
+Libraries  central role to the research process also
+makes them an ideal place in the research enterprise
+to house data services and related instruction
+efforts.
+A growing body of literature has addressed a
+variety of efforts aimed at providing data literacy
+instruction at biomedical and health sciences
+libraries [3 7]. Resources like the New England
+Collaborative Data Management Curriculum
+provide a helpful set of teaching resources, which
+librarians can customize to the needs of their
+audience [5, 8]; however, these approaches and the
+related literature have some limitations. First, many
+libraries have directed their training efforts toward
+A supplemental appendix and supplemental Table 1, Table 2,
+Figure 1, and Figure 2 are available with the online version of this
+journal.
+
+52
+
+students at the undergraduate and graduate level,
+rather than focusing on training for postgraduate
+researchers [3, 5, 7, 9]. In addition, many librarybased training efforts focus specifically on data
+management or writing data management plans
+(DMPs), which are only part of the skills and
+knowledge that constitute the broader concept of
+data literacy [3, 10].
+This article reports on an exploratory study that
+expands on the existing literature by considering the
+data literacy training needs of career-level
+researchers and related staff. This study was
+conducted to inform the development of the data
+services program at the National Institutes of Health
+(NIH) Library, which serves staff at NIH and other
+agencies in the Department of Health and Human
+Services.
+METHODS
+
+First, the authors investigated whether researchers
+had previously received data literacy training.
+Second, we identified priorities for data literacy
+instruction by identifying the skills that researchers
+considered most relevant to their work, as well as
+the skills in which they judged their expertise as
+being lower. Finally, we aimed to determine
+
+J Med Lib Assoc 104(1) January 2016
+
+Data literacy training needs
+
+whether differences existed in skill relevance and
+expertise in different groups in the community
+based on job role.
+Data were collected through a four-section survey
+consisting of twenty-one questions. The full survey
+instrument is available in the online only appendix.
+The survey instrument provided definitions of skills
+to ensure respondents understood the questions and
+used terminology common in the scientific research
+community, rather than library-specific terminology.
+For example, because researchers would likely be
+unfamiliar with the concept of   data literacy  
+training, we used the term   data management,  
+which was likely more familiar to respondents. The
+survey instrument was tested in a pilot study and
+revised accordingly. The NIH Office of Human
+Subjects Research Protections determined that this
+survey did not require review by an institutional
+review board (IRB). In lieu of IRB review, the
+director, NIH Office of Research Services, approved
+the final survey instrument.
+The first section of the survey contained nine pairs
+of questions that asked respondents to rate their
+experience with specific data literacy skills and the
+relevance of each skill to their work, using a fivepoint Likert scale, from   Very low   to   Very high.  
+Each rank was assigned a numerical value for
+analysis (1¼  Very low,   2¼  Low,   3¼  Medium,  
+4¼  High,   5¼  Very high  ). The second and third
+sections of the survey considered respondents 
+attitudes toward and experience with sharing
+research data. The fourth section contained questions
+about respondents  demographics and class
+scheduling preferences.
+The survey was designed to elicit information on
+two related but substantively different topics: data
+literacy training needs and data sharing practices.
+We combined these two topics into one survey to
+reduce survey burden and maximize the information
+yielded by the survey [11]. Because the survey results
+provide insight into two independent areas of
+inquiry, we report the results of the two sections
+separately. This article reports on findings related to
+data literacy training only; findings about data
+sharing are reported elsewhere [12].
+The data literacy training section of the survey
+considered nine key skills covering a variety of
+competencies across the research process, from the
+planning stage to end-of-project tasks like
+preservation and retention. These skills and the
+definitions provided in the survey are:
+
+J Med Lib Assoc 104(1) January 2016
+
+n Metadata: Capture and create metadata (descriptive information about your data, how it was
+collected, and other contextualizing information)
+n Ontology: Use common data elements, ontologies
+(formal models of concepts in a domain and their
+relationships), or other predefined terms for describing your data or variables
+n Collaboration: Organize, tag, and track data so
+multiple team members can work on the same
+dataset
+n Data mining: Conduct research through data
+mining (using computational methods to discover
+patterns in large datasets)
+n Reuse: Locate and obtain other researchers  shared
+data to use in your research, and clean or process it
+to meet your research needs
+n Visualization: Demonstrate, analyze, or communicate your research results through data visualization
+n Retention: Create a plan for long-term storage and
+retention of your data
+n Deposit: Publish and deposit data in a repository
+suited to your research field
+n DMP: Write a formal DMP, including selecting file
+formats, choosing a standard for data description,
+and planning for storage and preservation
+Throughout this article, skills are referred to by
+these shortened names for simplicity.
+Respondents were recruited through
+announcements to various NIH email distribution
+lists, and the survey was promoted on the NIH
+Library s website and digital displays in and near the
+library. Responses were collected electronically using
+the NIH Library s licensed version of SurveyMonkey,
+an online survey tool. A total of 190 responses were
+collected during a period of 50 days in April and
+May 2014. Because the survey was announced in
+multiple outlets to increase the response rate, the
+number of potential respondents cannot be
+estimated. However, the sample is small,
+representing about 3% of the 6,000 employees in
+NIH s Intramural Research Program. Twenty of the
+respondents did not indicate their position category
+and were therefore excluded from analyses, leaving a
+total of 170 eligible responses. All potentially
+identifiable information was removed before
+analysis, and both descriptive and inferential
+statistical analyses were used to examine variables
+and the potential relationships among these
+variables. Figures were created with R [13] and
+RStudio [14], using ggplot2 [15].
+
+53
+
+Federer et al.
+
+RESULTS
+
+and Table 2, online only, displays median relevance
+and expertise.
+
+Respondent demographics
+
+Respondents were asked to classify themselves
+according to their primary focus of work or research,
+selecting the most appropriate response from 3
+categories. Thirty-five respondents (21%) identified
+as   administrative, management, and support staff,  
+which could include individuals who provided
+research support for NIH intramural researchers, as
+well as managers and supervisors. This category
+would also include NIH staff who administered
+extramural funding activities. Twenty-two
+respondents (13%) identified as   clinical research
+staff,   who worked directly with patients or whose
+work had clinical applications, such as design of
+pharmaceuticals or medical devices. One hundred
+thirteen respondents (67%) identified as   basic
+science researchers,   whose work focused on
+preclinical trials, such as in vitro or animal studies, as
+well as computational research.
+Q1. Have researchers previously received relevant
+training?
+
+The majority of respondents overall (77%), as well as
+in each position category, responded that they had
+never had any formal training, with scientific
+research staff reporting the lowest rates of previous
+training (Table 1, online only).
+Q2. What data literacy skills are priorities for
+curriculum development?
+
+Ratings for relevance of skills to work and level of
+expertise in each skill were used to guide curriculum
+development. The median ranking for relevance and
+expertise in each skill was calculated; skills with a
+high median relevance (suggesting a generally high
+level of interest among the respondents) or a low
+median expertise (suggesting a generally low level of
+knowledge among the respondents) are considered a
+high training priority.
+Respondents considered most of the skills highly
+relevant to their work but rated their expertise in all
+tasks as medium or lower. Overall, visualization was
+ranked the most relevant (median¼5) and DMP the
+least relevant (median¼3) to respondents  work.
+Median expertise was lowest for DMP and ontology
+(median¼2 for both tasks). Figure 1, online only,
+demonstrates the overall distribution of responses,
+
+54
+
+Q3. Do relevance and expertise differ by job role?
+
+Rank medians were also calculated for each of the
+three position category subgroups to determine
+whether instruction priorities differed based on
+position category. Table 3 displays median relevance
+and expertise rankings for each position category.
+Figure 2, online only, contains the distribution of
+responses divided by position category.
+DISCUSSION
+
+The high proportion of respondents who indicated
+that they had never had formal data literacy training
+demonstrates a need for training opportunities. Our
+results also indicate that respondents find a variety
+of data literacy skills relevant to their work but do
+not necessarily have a correspondingly high level of
+expertise. The finding that median expertise for all
+tasks was medium or lower, both overall and within
+each position category subgroup, suggests a need for
+training that addresses each of the skills considered
+in this study. Visualization, which had the highest
+overall median relevance ranking, and ontology and
+DMP, which had the lowest overall median expertise
+ranking, can be considered priorities for instruction
+for this audience.
+For most skills, fewer than one-fifth of
+respondents ranked their expertise as   Very low,  
+indicating that most respondents had at least some
+knowledge of these skills and did not need a course
+intended for complete beginners. However, the
+broad range of ratings of expertise in a given task
+also suggests that multiple levels of instruction may
+best meet the needs of researchers with differing skill
+levels. With such an approach, clear descriptions of
+learning outcomes and class topics would help
+ensure that researchers are able to decide which class
+is most appropriate for their level of expertise.
+Our study also suggests that researchers working
+in different areas of the research enterprise are not
+completely homogenous in their data literacy
+training needs, as differences in median relevance
+and expertise exist across the three position category
+subgroups for several of the skills. Some of these
+differences could be explained by these subgroups 
+different work roles and the types of data that they
+utilize. For example, clinical researchers frequently
+
+J Med Lib Assoc 104(1) January 2016
+
+Data literacy training needs
+
+Scientific
+
+Metadata
+Ontology
+Collaboration
+Data mining
+Reuse
+Visualization
+Retention
+Deposit
+Data management plan
+
+Clinical
+
+Administrative
+
+Median
+relevance
+
+Median
+expertise
+
+Median
+relevance
+
+Median
+expertise
+
+Median
+relevance
+
+Median
+expertise
+
+4
+4
+4
+4
+4
+5
+4
+4
+3
+
+3
+2
+3
+3
+3
+3
+3
+3
+2
+
+4
+4
+4
+4
+3
+4
+4
+3
+3
+
+3
+2.5
+2
+2
+2
+3
+3
+2
+2
+
+4
+3.5
+4
+4
+4
+4
+4
+3.5
+3
+
+3
+2
+2
+2
+2
+3
+2
+3
+2
+
+1¼  Very low,   2¼  Low,   3¼  Medium,   4¼  High,   5¼  Very high  .
+
+Table 3
+Median relevance and expertise rankings by position category
+
+work with patient data that may contain personally
+identifiable information and therefore are prohibited
+from freely sharing their data, which could explain
+this subgroup s lower ranking for deposit expertise
+and reuse relevance (Table 3) [12]. Other differences
+cannot be readily explained by our data or by
+dissimilarities inherent to the three subgroups, such
+as scientific researchers rating visualization as more
+highly relevant than their clinical and administrative
+colleagues. Future research could be helpful in
+validating our findings and elucidating the reasons
+for differences if they persist in larger studies.
+Pilot testing specialized training sessions designed
+for specific segments of the research community
+might also be reasonable. These training sessions
+could feature the topics that are most relevant to that
+group and draw on case studies, examples, and
+exercises similar to what attendees are likely to
+encounter in their daily work. Skills rated as less
+relevant could be viewed as a low training priority,
+but lower relevance ratings could also suggest a need
+to communicate the importance of these skills to
+researchers. For example, writing a DMP was rated
+as the least relevant skill, with respondents overall as
+well as each subgroup ranking it medium in
+relevance, likely because NIH does not currently
+require researchers to prepare a DMP. However,
+NIH s response to the 2013 Office of Science and
+Technology Policy s memo on access to federally
+funded research indicates that   NIH is taking steps
+to ensure all NIH-funded researchers develop data
+management plans whether they are funded by a
+grant, cooperative agreement, contract, or intramural
+funds, regardless of funding level,   and that all
+relevant policies will be enacted by the end of
+calendar year 2015 [16, 17]. Thus, among NIH-
+
+J Med Lib Assoc 104(1) January 2016
+
+funded researchers, the perception that DMPs are of
+somewhat low relevance to their work may change
+within the next year. Librarians and other
+information professionals may want to proactively
+address the increased importance of DMPs. Other
+policy and technology changes can cause
+researchers  perception of a skill s relevance to shift
+over time. Therefore, librarians who provide data
+literacy training might find it helpful to remain up to
+date with such developments in order to provide
+timely and relevant classes.
+Data literacy skills are relevant to researchers 
+daily work and are well within the scope of
+librarians  expertise. To support researchers 
+changing needs in the face of a rapidly evolving
+research enterprise that increasingly relies on data
+literacy skills, libraries may want to consider
+providing training suitable not only for students, but
+also for career-level researchers and staff. A single
+workshop is clearly no substitute for the years of
+training and experience that librarians have in skills
+like metadata and ontologies, preservation, and
+information management, so libraries could also
+investigate services other than training to assist
+researchers in meeting policy requirements and
+improving data management. Providing librarybased training programs and data services for
+researchers will likely increase their awareness of
+librarians  skills and create new opportunities for
+librarians to engage with this population.
+Limitations
+
+Our sample size was small and based on
+convenience sampling, limiting the generalizability
+
+55
+
+Federer et al.
+
+of our results. Given that recruitment was conducted
+primarily through email lists for the NIH Library and
+data-related groups at NIH, selection may be biased
+in favor of individuals who already have an interest
+in data literacy and who may consider these skills
+more relevant to their work than individuals who do
+not have such interests. The NIH research
+community may not be representative of the
+population of biomedical researchers on the whole,
+since researchers who choose to work in government
+research settings may differ from their peers who
+work in private or academic settings. Finally, this
+study relies on respondents  self-assessment of their
+expertise in tasks, because of the difficulties in
+quantitatively measuring data literacy knowledge in
+a brief online survey. Respondents  rating of their
+own expertise might not correlate with their actual
+expertise, as people frequently overestimate their
+abilities in self-assessments [18].
+Further research is needed to investigate whether
+the findings of this study are applicable to the
+broader research community. Studies that assess the
+needs of researchers at different career stages, as well
+as in different areas of specialization, can be helpful
+in enabling librarians and others engaged in teaching
+data literacy to create customized and effective
+curricula. As researchers are increasingly expected to
+produce datasets that are well managed, clear,
+understandable, and shareable with the scientific
+community, targeted training based on established
+needs can play an important role in ensuring
+researchers  success.

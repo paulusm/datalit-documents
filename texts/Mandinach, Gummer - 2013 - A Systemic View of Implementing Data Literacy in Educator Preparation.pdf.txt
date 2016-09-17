@@ -1,0 +1,559 @@
+REVIEWS/ESSAYS
+
+A Systemic View of Implementing Data Literacy in Educator
+Preparation
+Ellen B. Mandinach1 and Edith S. Gummer2
+
+Data-driven decision making has become increasingly important in education. Policymakers require educators to use
+data to inform practice. Although the policy emphasis is growing, what has not increased is attention to building human
+capacity around data use. Educators need to gain data literacy skills to inform practice. Although some professional
+development opportunities exist for current educators, fewer formal courses and opportunities for data literacy development in schools of education have been developed and implemented. This article explores issues around the growing
+need for data-driven decision making in programs in schools of education. The issues are complex and the actors needed
+to bring about change are multiple. A systems perspective to explore course and programmatic implementation is presented.
+
+Keywords: decision making; teacher knowledge; teacher education and development; policy analysis
+
+T
+
+he scope and nature of data available to educators is growing at an increasing rate. Parallel to this growth in data is
+the awareness that all educators must understand how to
+use tangible evidence to inform their decisions rather than use
+anecdotes, intuitions, or personal preferences. Helping educators to become data literate is not as simple as it may seem.
+Training the existing cohort of educators currently out in
+schools is an expensive and daunting enterprise. Preparing preservice candidates may be even more complicated as multiple
+stakeholders seek to influence that preparation. This article
+takes a systemic perspective to examine what schools of education, professional credentialing organizations, state departments of education and their licensing agencies, and professional
+development providers can do to prepare and train the nation s
+educators to use data effectively to make instructional, administrative, policy, and other decisions. The article first provides
+some context and trends around data literacy, including supportive technologies, standards, and accreditation. It then
+describes knowledge around the development of data literacy,
+including an exploration of requisite skills and knowledge, current practices in schools of education, and the roles of various
+stakeholder groups. The article then explores the systemic
+nature of the components that can contribute to the development of data literacy, noting gaps in research and postulating a
+framework to move the field forward.
+
+What Is Data Literacy?
+The field is now working on a common definition of data literacy
+(Mandinach & Gummer, 2012a). In this article, we broadly
+
+define data literacy as the ability to understand and use data effectively to inform decisions. It is composed of a specific skill set and
+knowledge base that enables educators to transform data into
+information and ultimately into actionable knowledge
+(Mandinach, Honey, Light, & Brunner, 2008). These skills
+include knowing how to identify, collect, organize, analyze, summarize, and prioritize data. They also include how to develop
+hypotheses, identify problems, interpret the data, and determine,
+plan, implement, and monitor courses of action. The decisions
+that educators need to use data to inform are multiple and
+diverse, and data literacy is tailored to the specific use. For
+instance, teachers need to combine data literacy with pedagogical
+content knowledge (Shulman, 1986) to affect instructional practice. Mandinach (2009, 2012) has termed this pedagogical data
+literacy, whereas Means, Chen, DeBarger, and Padilla (2011)
+refer to it as instructional decision making.
+The Emerging Importance of Data Literacy
+The pressures and incentives that are driving the need for data
+literacy have come from multiple directions. Four trends also
+have emerged: (a) the increased emphasis on data in federal policy, (b) the development of the statewide longitudinal data systems (SLDS), (c) the growth of local data systems, and (d)
+additions to standards and accreditation processes that address
+data literacy. Furthermore, the push to use data is not unique to
+education. Education can learn from the trends seen in medicine
+WestEd, East Windsor, NJ
+Education Northwest and the National Science Foundation, Portland, OR
+
+1
+2
+
+Educational Researcher, Vol. 42 No. 1, pp. 30 37
+DOI: 10.3102/0013189X12459803
+© 2013 AERA. http://er.aera.net
+30
+
+EDUCATIONAL RESEARCHER
+
+Downloaded from http://er.aera.net at Univ of the West of England on September 11, 2016
+
+and business, where data-driven practices have been embedded
+for many years.
+
+Federal Policy Issues
+Arne Duncan, the secretary of education, has extensively
+addressed the importance of educators  using data to inform their
+practice (Duncan, 2009a, 2009b, 2009c, 2010a, 2010b). Duncan
+sees data use as an emerging priority at all levels of the education
+system. “I am a believer in the power of data to drive our decisions. Data gives us the roadmap to reform. It tells us where we
+are, where we need to go, and who is most at risk” (Duncan,
+2009b). Duncan continues,
+Our best teachers today are using real time data in ways that
+would have been unimaginable just five years ago. They need to
+know how well their students are performing. They want to know
+exactly what they need to do to teach and how to teach it.
+(Duncan, 2009b)
+
+Furthermore, John Easton, the director of the Institute of
+Education Sciences (IES), has remarked that he sees the use of
+data as the means by which improvement of student learning and
+schools will occur (Easton, 2009, 2010). The clear message is that
+data-driven decision making is a fundamental process that will
+bring about continuous improvement within the education
+system.
+
+SLDS
+IES has focused on the development of state-level technological
+infrastructure through the SLDS Grant Program, which was created for the purpose of developing state technology solutions.
+The implicit message is to build the technology first and then
+focus on building the human capacity to use the systems and the
+data. Since its inception in 2002, the SLDS Program has provided $610 million in funding, including the 2012 funding
+cycle. It also included funding through the American Recovery
+and Reinvestment Act (2009) because data systems are one of its
+four pillars. The SLDS Program
+is designed to aid state education agencies in developing and
+implementing longitudinal data systems. These systems are
+intended to enhance the ability of States to efficiently and accurately manage, analyze, and use education data, including individual student records. The data systems developed with funds
+from these grants should help States, districts, schools, and teachers make data-driven decisions to improve student learning, as
+well as facilitate research to increase student achievement and
+close achievement gaps. (National Center for Education Statistics,
+2009)
+
+The investment in the SLDS has removed an important roadblock to data use by educators: the concern that data were not
+readily available to be examined and analyzed.
+
+Local Data Systems
+There is parallel growth of data systems to serve districts, with a
+substantial investment in the technological infrastructure at the
+local level, the total cost of which is not well established.
+Technologies for districts, schools, and classrooms have been an
+emerging field for a number of years, with the systems being one
+of the key tenets of data-driven decision making (Hamilton et al.,
+
+2009). Means, Padilla, and Gallagher (2010) found that almost
+all districts, except the smallest ones, now have some sort of technology to support data-driven decision making.
+The technologies are often inextricably interwoven with the
+kinds of data that reside in tools (i.e., item-level testing data
+in assessment systems or diagnostic data in handhelds), making
+it difficult to discuss the specific type of applications without
+referring to the characteristics of the data. Wayman (2005, 2007)
+identifies four main types of systems: data warehouses, student
+information systems, instructional management systems, and
+assessment systems. Many other smaller applications also exist,
+for example, diagnostic devices and data dashboards for real-time
+decision making.
+
+Standards for Teachers and Leaders
+Data literacy is a developing theme in the updated standards for
+teachers from the Interstate Teacher Assessment and Support
+Consortium (InTASC; Council of Chief State School Officers
+[CCSSO], 2011) and the Interstate School Leaders Licensure
+Consortium (ISLLC; CCSSO, 2008). Data use is directly
+addressed in the ISLLC standards. For instance, Standard 1
+requires administrators to know how to “collect and use data to
+identify goals, assess organization effectiveness, and promote organizational learning” (CCSSO, 2008, p.14). Data collection and
+analysis and data use to adapt leadership strategies are addressed in
+two additional standards. In the InTASC standards, data use is
+indicated in almost 40 knowledge, disposition, and performance
+statements that integrate the theme of using data to support teaching and learning across the document.
+Clearly, there are strong statements coming from federal policymakers about the importance of using data, coupled with substantial investments of federal and local dollars in creating
+technology infrastructures to support the availability of data.
+However, the development of human capacity among the nation s
+educators to use these systems and applications and to examine
+data has not been systematically supported. There has not been a
+coordinated effort to train current and future educators to use
+data. For example, Means and colleagues (2010) report that more
+than 90% of the districts in their sample have provided some
+professional development but not for all schools or all teachers.
+And it is difficult to ascertain the comprehensiveness and quality
+or such training.
+Current State of Data Literacy Development
+The research base supporting the characterization of data literacy
+skills and knowledge adequately demonstrates the complexity of
+using data, yet there is little agreement about data literacy as
+a construct (Mandinach & Gummer, 2012a). Educators need
+multiple experiences to develop data literacy across their careers,
+from preservice preparation throughout their career-long development of expertise. The contexts in which educators are prepared to use data in preservice programs and on the job are not
+well described.
+
+Characterizing Data Literacy Skills and Knowledge
+Multiple researchers have identified the knowledge and skills and
+the processes or components that undergird data literacy.
+
+Downloaded from http://er.aera.net at Univ of the West of England on September 11, 2016
+
+JANUARY/FEBRUARY 2013
+
+31
+
+• Differentiate instruction to meet the needs of all students
+(Long, Rivas, Light, & Mandinach, 2008; Love, Stiles,
+Mundry, & DiRanna, 2008).
+• Formulate hypotheses about students  learning needs and
+instructional strategies (Boudett, City, & Murnane, 2007;
+Halverson, Pritchett, & Watson, 2007; Herman & Gribbons,
+2001; Love et al., 2008: Mandinach et al., 2008).
+• Collect and use multiple sources of data (Bernhardt, 2008;
+Goldring & Berends, 2009; Kerr, Marsh, Ikemoto, Darilek,
+& Barney, 2006; Love et al., 2008; White, 2005).
+• Use formative, summative, interim, benchmark, and common assessments, as well as student classroom work products,
+to make decisions (Boudett et al., 2007; Goldring & Berends,
+2009; Love et al., 2008; White, 2005).
+• Modify instructional practice according to the data collected (Abbott, 2008; Bernhardt, 2008; Mandinach et al.,
+2008).
+• Drill down to the item level to gain a deeper understanding
+of performance (Boudett et al., 2007; Love et al., 2008).
+• Use student work, not just tests, and other sources of data
+(Bernhardt, 2008; Boudett et al., 2007; Halverson et al.,
+2007; Supovitz & Klein, 2003; Wayman & Stringfield,
+2006).
+• Monitor outcomes (Easton, 2009; Love et al., 2008;
+Mandinach et al., 2008).
+• Focus on all children, not just the “bubble kids” (BooherJennings, 2005; Brunner et al., 2005; Love et al., 2008).
+• Look for causes of failure that can be remediated (Boudett
+et al., 2007; Love et al., 2008).
+• Work in data teams to examine data (Halverson et al., 2007;
+Long et al., 2008).
+Administrative data literacy requires many of these same skills
+but integrates educational leadership and management skills.
+Some of the skills mentioned include planning for data use, preparing for group structures, understanding and allowing for collaboration (Chen, Heritage, & Lee, 2005; Halverson, Gregg,
+Pritchett, & Thomas, 2005; Lachat & Smith, 2005; Supovitz &
+Klein, 2003), establishing a vision for data use (Hamilton et al.,
+2009), aligning learning goals with available data, and providing
+for distributed leadership (Lachat & Smith, 2005; Park &
+Datnow, 2009). Knapp, Swinnerton, Copland, and MonpasHuber (2006) noted that there is little understanding of how
+administrative data literacy is defined.
+Data literacy is often confused with assessment literacy,
+though the distinctions between the two have not been clearly
+explicated in the research literature. There is no doubt that
+understanding assessment is an important component in datadriven decision making (Brookhart, 2001; Heritage & Yeagley,
+2005; Herman & Gribbons, 2001; Popham, 1999; Shaw, 2005).
+Yet assessments as data collected from classroom, school, district,
+and state measures of student achievement are only one type of
+data that enter into the decision-making process. Data literacy
+requires knowledge of other data, such as perception, motivation,
+process, and behavior. Thus, the field needs to refine what is
+meant by data literacy and skills and knowledge needed to engage
+in data use and a variety of data (Mandinach & Gummer, 2012a)
+to reduce the confusion with assessment literacy.
+32
+
+EDUCATIONAL RESEARCHER
+
+Current Practices at Universities and in
+Professional Development
+Secretary Duncan (2012) has challenged schools of education to
+step up and meet the growing need to improve current and future
+educators  data literacy. He has stated that the institutions must
+help prepare educators to use data more effectively than they have
+done in the past. Although there is a growing emphasis from
+policymakers, there is little reliable evidence regarding the extensiveness of courses on data-driven decision making and what
+schools of education are doing to respond to the new federal
+emphasis on this practice.
+The research and practice literature consistently discusses the
+lack of human capacity around data use (Choppin, 2002;
+Feldman & Tung, 2001; Hamilton et al., 2009; Herman &
+Gribbons, 2001; Ikemoto & Marsh, 2007: Mandinach, 2009;
+Mandinach & Honey, 2008; Mason, 2002; Miller, 2009;
+Wayman & Stringfield, 2006), but to date, there is no systematic
+empirical evidence about the prevalence of course offerings in
+schools of education that can address the development of data
+literacy other than a small and limited survey (Mann & Simon,
+2010). We know that courses are only now beginning to emerge.
+Some courses are limited to graduate-level seminars for administrators (J. Wayman, personal communication, February 7, 2011).
+Such courses are often small in size and highly focused. Some
+courses have broad reach by using a virtual portal (B. Bellucci,
+personal communication, February 17, 2011; Mann & Simon,
+2010). Undergraduate courses for teacher candidates seem to be
+sporadic, most often with instruction on data-driven practices
+subsumed in existing offerings, such as measurement, statistics,
+instruction, or methods.
+There are examples of successfully integrating data-driven
+decision making through a school of education s curriculum.
+Western Oregon University has a preservice curriculum infused
+with data-driven concepts whereby the faculty members are
+expected to use data and evidence to inform teaching and learning (H. Rosselli, personal communication, May 26, 2011). A
+culture of evidence has been created, and faculty must use datadriven principles in their teaching. Professors model data-driven
+decision making by (a) collecting baseline data, (b) using those
+data for course improvement as well as for identifying student
+learning needs, (c) modifying instruction on the basis of the data,
+and (d) assessing again to determine impact. Data link proficiencies to performance to create a cycle of continuous improvement.
+Faculty members explicitly model this process and expect their
+students to do their same in their practice. Student practica
+require the use of real-time data. In more than 9 years through
+strategic hiring, this institution has transformed itself into a
+learning organization with a culture of evidence in which data
+serve as the impetus for change.
+University faculty also can adopt examples and methods used
+by professional development providers that have programs for
+in-service educators. There are many opportunities, topics, and
+techniques that can be generalized to formal courses or strategically integrated into existing courses from these training models.
+There is also a current effort to understand the characteristics
+of these programs and the missing components (Mandinach &
+Gummer, 2012b).
+
+Downloaded from http://er.aera.net at Univ of the West of England on September 11, 2016
+
+Helping educators to gain data literacy requires a developmental approach to skill acquisition. Most of the attention to
+date has focused on training the current cohort of teachers and
+administrators through in-service and professional development
+opportunities. Typically, principals are trained first, and then
+using a turnkey model, teachers are trained (Mandinach, 2009).
+There is anecdotal evidence that course offerings for administrators are more prevalent than for teachers. Yet the field lacks
+concrete evidence of how course offerings differ across the spectrum from preservice to postgraduate levels (Mandinach &
+Gummer, 2012b) or how courses on data-driven decision making should differ at different points in educators  careers
+(Mandinach, Gummer, & Muller, 2011).
+The Need for a Systems Approach to Build Data
+Literacy Among Educators
+Systems thinking is the attempt to understand the interrelationships among components in complex systems. It serves an integrative function to address a complex problem, such as the
+building of data literacy for educators. It allows organizations or
+institutions to focus on the whole rather than individual components of the system. With systems thinking, organizations examine the structure or the interrelationships among components
+that influence behavior over time. System thinking recognizes the
+hierarchical nature of phenomena and operation within multiple
+levels, such as schools within districts within states (Mandinach
+& Cline; 1994; Mandinach, Rivas, Light, & Heinze, 2006; Senge
+et al., 2000; Senge, 1990; Williams & Hummelbrunner, 2011).
+Senge s (1990) framework examines wholes with respect to
+change and looks at the complexity of interactions among system
+components, identifying underlying structures and causes. A systems approach helps organizations to identify leverage points and
+determine where and when actions can be taken to effect change.
+Systems thinking also relies on the systematic collection and
+analysis of data for self-reflection and considers the consequences
+of decisions.
+
+Stakeholders and Their Roles
+The first step in characterizing the systemic nature of improving
+the use of data by educators is a characterization of the key stakeholders in the system. Our articulation of the stakeholders and
+their roles and responsibilities arose from the convening of
+researchers, deans, and accreditation experts (Mandinach et al.,
+2011). The objective of this Spencer-funded meeting was for
+stakeholders to discuss issues around how data-infused courses
+could be implemented in schools of education.
+Schools of education. Schools of education are a key stakeholder in
+improving educator data literacy by integrating data-focused
+courses or concepts into educator preparation programs. We
+envision an enhanced role for schools of education, introducing
+data literacy early and affirming its importance throughout an
+educator s career to support the enculturation of data use.
+School districts and practitioners. Schools of education are not the
+only stakeholder in the efforts to improve educator data literacy.
+A second stakeholder in the system is the school district and
+the practitioners who actually carry out the requirements of data
+use. Districts employ educators who may lack the skills and
+
+knowledge around data use but who must acquire the capacity to
+use data. Districts may seek help from schools of education
+because they lack the resources or the internal capacity to implement broad-scale training on data-driven decision making.
+Districts look to schools of education for courses for their current
+staff. They can look to the schools of education to produce new
+teachers who have data skills and who show competence in data
+use (Mandinach & Gummer, 2012b; Mandinach et al., 2011).
+Some districts require candidates for positions to demonstrate
+data literacy as a requirement of the hiring process (Long et al.,
+2008).
+Professional development providers. Experts in professional development are another stakeholder with a history of working with
+practicing educators to help them develop understandings of
+data-driven practice. Schools of education can learn from the
+professional development providers about how to develop courses
+on the topic or how to integrate data-driven concepts into existing courses. Schools of education could even look to the professional development providers as a resource in teaching courses,
+including face-to-face courses and virtual courses, or for continuing education credits. Schools of education do not have to hire
+additional faculty or allot a faculty position to someone who
+knows data. Professional developers can broaden their range of
+influence. Most importantly, more educators will be introduced
+to data-driven practices and become data literate.
+State education agencies. States and their credentialing agencies
+can have a major impact on the introduction of courses on datadriven decision making if they expand and make explicit requirements that schools of education prepare educators on data use.
+Schools of education will have to respond to such requirements
+in state licensing and accreditation rules. According to a selfreport survey of state data directors, results indicate that 10 states
+have requirements for data training for superintendents, 13 for
+principals, and 14 for teachers (Data Quality Campaign, 2011,
+2012). Only 11 states require data literacy as a part of the preservice credential or licensure process.
+Professional organizations. Other organizations have critical roles
+in helping to establish data-driven decision making in educator
+preparation, driving the need for more systematic preparation in
+data literacy for educators with accreditation and licensing regulations. Professional organizations, such as the National Board
+for Professional Teaching Standards, the National Council for
+Accreditation of Teacher Education (NCATE), and the American
+Association of Colleges for Teacher Education, can provide an
+impetus for creating change, explicitly emphasizing data literacy
+in standards and evidence for accreditation. For instance,
+NCATE s Blue Ribbon Panel (2010) released a comprehensive
+set of recommendations for the future of teacher preparation that
+are far-reaching and are intended to have a direct impact on training educators to use data. The panel states that teacher candidates
+“need to have opportunities to reflect upon and think about what
+they do, how they make decisions, and how they  theorize  their
+work, and how they integrate their content knowledge and pedagogical knowledge into what they do” (Blue Ribbon Panel, 2010,
+p. 9). The report further states that teacher preparation must provide “the opportunity to make decisions and to develop skills to
+
+Downloaded from http://er.aera.net at Univ of the West of England on September 11, 2016
+
+JANUARY/FEBRUARY 2013
+
+33
+
+analyze student needs and adjust practices using student performance data while receiving continuous monitoring and feedback
+from mentors” (Blue Ribbon Panel, 2010, p. 10). These are the
+principles of data-driven decision making and continuous
+improvement applied to teacher preparation and to practice.
+CCSSO has a wide range of activities, some of which can
+target the importance of the use of data and training educators to
+use data. CCSSO convenes meetings of top educational officials
+who can influence change in their states by initiating discussions
+that may lead to the inclusion of data literacy among licensure
+and certification requirements. Consortia supported by CCSSO
+can include among their standards more explicit references to
+data literacy skills as they apply to the professions. The challenge
+is making the standards operational.
+Testing organizations can integrate data-driven concepts into
+their assessments for teachers and administrators at the behest of
+licensing agencies. If the assessments are a required part of the
+credentialing or licensure process, then schools of education are
+likely to respond by ensuring their students are prepared for the
+examinations. Currently, data-driven decision making is not part
+of the PRAXIS test, but it is included in the School Leaders
+Licensure Assessment. The latter requires data-driven decision
+making through the analysis of different sources of data and
+information to form a decision (Educational Testing Service,
+2005). We suspect that if data-driven decision making is required
+on tests for teachers and administrators, schools of education will
+be forced to respond by teaching to the test. Testing companies
+will build such assessments if professional organizations and
+states require such skills and knowledge.
+U.S. Department of Education. Finally, the federal government can
+play more of a role in emphasizing the need for data literacy beyond
+the speeches government officials have made. To date, there is neither a federal mandate nor specific funding program to stimulate
+the training of educators. Although substantial funds have been
+devoted to the development of the technological infrastructure, no
+monies have been similarly devoted to building the capacity of
+educators to use data to improve teaching and learning.
+What Needs to Happen
+We have emphasized three fundamental premises. First, datadriven decision making must become part of an educator s preparation. Educators must receive systematic training in how to use
+data, preferably beginning in their preservice years but continuing throughout their careers. Second, schools of education are the
+appropriate venue in which the needed educational experiences
+must occur. Schools of education must find ways to integrate
+data-driven practices and principles into the training of educators. Finally, we have discussed the roles of many of the key players we see as creating an environment for change.
+It is reasonable that schools of education must be the driving
+force for improving data literacy, as the preservice preparation
+period is a major opportunity for the development of knowledge
+and skills. However, the introduction of a data-use focus into
+programs or courses may not be simple. It is unclear whether
+there is sufficient motivation or perceived need on the part of
+schools of education. It is unclear whether current faculty members are sufficiently data literate to be able to teach such courses.
+34
+
+EDUCATIONAL RESEARCHER
+
+A related issue is whether deans of schools of education believe
+that having a faculty slot devoted to data-driven decision making
+is important. This is an issue of perceived need as well as prioritization. Other priority and pressing university needs may trump
+such appointments (Mandinach et al., 2011).
+There is little agreement whether it is best to have stand-alone
+courses or whether data concepts should be subsumed within
+existing courses. Questions abound about whether and how data
+use should be integrated into practica so that candidates can gain
+experience working with authentic data. What is the most effective format of courses or integrated concepts to educate them on
+the topic? Furthermore, how do these decisions differ for courses
+aimed at administrative candidates? When is the right time to
+integrate data-driven decision making (Mandinach & Gummer,
+2012b)?
+Many questions still remain about how schools of education
+and other agencies can best respond to address the growing need
+to build capacity among current and future educators to use data
+(Mandinach et al., 2011). Our recommendations for stimulating
+progress in the field focus on two areas of need. First, there is a
+need for research to address the gaps in the scientific knowledge
+base to help stakeholders understand the changes that need to
+occur in educational practice. Second, representatives, policymakers, and decision makers need to come together to discuss
+and work out the action steps necessary to ensure that educators
+know how to use data to inform their practice.
+
+Research Needs
+Research on current practices. As described in the previous sections,
+a major gap in the field s knowledge about data-driven decision
+making is how educators currently acquire data literacy. The lack
+of knowledge of what courses exist and whether and how schools
+of education are attempting to address the growing need to build
+human capacity around data use hampers the development of
+systematic processes for improvement.
+There is a clear need for a scientific and comprehensive survey
+and inventory of the existence of courses and the extent to which
+data-driven practices are integrated into existing courses. This
+need was made explicit during the meeting of experts on which
+this article is grounded (Mandinach et al., 2011). Such a survey
+is planned for the 2012 academic year (Mandinach & Gummer,
+2012b).
+Additionally, it is necessary to understand how states are dealing with the issue. Researchers and policy implementers need to
+know what accreditation and licensure requirements around data
+literacy have been issued by the states, how those requirements
+are being implemented, and how institutions of higher education
+are responding. The information from such a comprehensive survey and inventory will provide fundamental data from which
+policy organizations and schools of education can build and
+respond. Currently, there is only anecdotal information that is
+insufficient and even inappropriate, given the policy and practice
+emphasis on the importance of data-driven practice.
+Research on the impact of data use. Another gap in the field s
+knowledge base is whether the use of data changes classroom
+practice and, ultimately, student performance. A recent study
+(Carlson, Borman, & Robinson, 2011) found mixed results for
+mathematics and reading achievement from a districtwide data-
+
+Downloaded from http://er.aera.net at Univ of the West of England on September 11, 2016
+
+driven reform intervention. The field still needs to more clearly
+understand what impact there might be at the student and
+teacher levels as well, including the intended and unintended
+consequences.
+Research on policy. There are several policy-oriented issues to be
+addressed and better understood. First and foremost, there needs
+to be an alignment between what districts, schools, and educators
+actually do and need and the actions that schools of education
+might take to integrate data-driven practices into educator
+preparation programs. It would be remiss to make changes without consulting the ultimate stakeholders and end users local
+education agencies. Schools of education should be responsive to
+those needs, whether adapting their course offerings or providing
+outreach through continuing education opportunities.
+There is a need to explore the role that the states can play in
+setting future policy and developing and mandating licensure
+and certification requirements for all educators and to address the
+following: (a) Can and will states require that educator preparation programs offer training on data use? (b) Will schools of education be held accountable for their graduates to show evidence
+of data literacy? (c) Can and will testing organizations introduce
+components of assessments that measure data use and data literacy? (d) Will such requirements stimulate change throughout the
+education system and impact practice?
+The role the federal government might play beyond making
+public policy statements about the need for educators to be data
+literate should be addressed. A policy analysis might address (a)
+whether resources can be provided for helping to train the current
+cohort of educators and (b) what the U.S. Department of
+Education can do. Parallel policy analysis research might also
+address the roles that states can play.
+Research on developmental needs of educators. We still do not understand the differing needs of diverse groups of educators in terms of
+preparation for data-driven practice. Research is needed to understand data literacy preparation needs of teachers as opposed to
+administrators and of novices as opposed to experts. As noted
+above, educators  needs will differ and the field can benefit from
+understanding those differences and how best to provide education
+and training on data literacy to address the diversity.
+
+Strengthen the Discourse Around Educator Preparation
+This article has discussed the complexity of infusing data practices into the preparation of educators. The research we recommend above is a necessary but insufficient component of
+improving data literacy. What also is needed is high-level support
+from policymakers and relevant stakeholders. It is not clear where
+and how data-driven courses can and should be integrated into
+course work. This is, in part, because of the diversity of needs
+across preservice and in-service, and teachers and administrators.
+Continued discussion among the relevant agencies can help to
+address some of the questions and issues we have identified. It is
+our belief that change will not happen if each agency functions in
+isolation without a more comprehensive approach to the issue.
+The meeting that we convened in 2011 (Mandinach et al., 2011)
+brought together some but not all necessary participant groups.
+A more comprehensive and higher-level meeting is needed where
+officials from federal and state education agencies, the profes-
+
+sional education organizations, deans of schools of education,
+credentialing organizations, and other interested parties come
+together to not just discuss what needs to be done to affect change
+but actually map out policy changes that will necessitate and create the change that is needed.
+Bringing together stakeholders who can make action happen
+may be an effective means by which progress can begin to occur.
+The development of a systemic, comprehensive, and strategic
+plan is needed. If the field is left to a piecemeal approach to
+action, nothing is going to happen and little, if any, progress will
+be realized. This issue requires buy-in from many, at different
+levels, and from varied organizations. Obtaining that agreement
+requires leveraging at the appropriate sources of influence. It will
+not be easy because of the interdependencies and complexities,
+but it is possible.

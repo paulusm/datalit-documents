@@ -1,0 +1,57 @@
+Beyond Data Science: Advancing Data Literacy
+To deepen the benefits of Big Data, we must put the social sciences and the humanities on equal footing with math and computer science.
+
+Graphic originally developed in 2012; today I would update it to include “contextualize” along side the crafts of gathering / analysis (mathematicians, engineers); design (artists, graphic designers, information designers); and narration (writers, editors, journalists). Graphic by Jehoaddan Kulakoff. Content co-conspirator: Simon Steinhardt.
+The 21st century is a fantastic setting for playing oracle, not because it's any easier to make accurate projections, but because in so many areas of technology and media it feels like we're already getting a head start on tomorrow. We're now in the era of Big Data   for every piece of data produced in the history of mankind up to 2010, we've produced nine pieces since   and we're moving into a future of Even Bigger Data.
+My dream, though, is a future of More Meaningful Data. And for that, we need: the data gathered and parsed; the data analyzed, interpreted, and contextualized; and the data visualized, narrated, and made accessible. Currently, however, the cult of the mathematically-inclined, computer-science-educated “data scientist” is not allowing for the full potential of Big Data to be put to use.
+Before we take this journey together, I want to clarify that when I talk about data, it's reflective of two distinct, but related things:
+data   lowercase and plural   are all of the quantitative and qualitative measurements we take of our world and ourselves.
+Data   capitalized and singular   is a whole that's greater than the sum of its parts, a bundle of actions and outcomes that, ideally, speaks to the relationships between those actions and outcomes.
+Outside of purely gathering, storing, and parsing data, I want to argue that contextualizing, storytelling, and visualizing are equally important tools to help us understand and describe those relationships. And the interplay between all of these tools is where true Data Literacy is possible.
+What's more, Data Literacy isn't as simple as the ability to store, command, and read numbers. And it isn't something that is possible to achieve through just one person.
+Rather, on the production side, it's a process that involves different competencies at each step; on the consumption side, it's an acumen in judging the credibility of a final product. On both sides it's an understanding of the fundamental problems that can crop up along the way, from strategy to data collection to filtration to analysis to presentation:
+The things we want to measure, but don't know what data to collect.
+The data we want to collect, but don't know how to capture.
+
+Scientist Jane Goodall studies the behavior of a chimpanzee in Tanzania in 1987. Image via W. Jay Wood in his essay “How Might Intellectual Humility Lead to Scientific Insight?”
+The data we've captured, but can't use because they're not accurate.
+The data we've captured, but don't know how to interpret.
+The data that we misinterpret, because there's too much noise and not enough signal.
+The data that we misattribute, because we mistake correlation and causality.
+The data that we misuse, because we want them to support an agenda based on falsehoods.
+Without Data Literacy, we end up in one of the following scenarios with regard to Data:
+we don't collect it;
+we ignore it;
+we look at it, but don't apply it;
+we apply it incorrectly;
+we extract the wrong meaning from it;
+or twist it to support our (wrong) ideas.
+Data Literacy can help us solve those problems, but it's only one part of the puzzle. Anyone can throw a few numbers together to make a quick statistic, or compile tons of them into massive spreadsheets, but without any real meaning to be extracted we're left with numerical gibberish, or “data salad,” if you will. This is where contextualization, narration, and design / visualization come into play; described for the purpose of how we can enable Data Literacy below.
+Contextualization is a process of putting findings into perspective
+Contextualization is a tool that social scientists   sociologists, anthropologists, economists, political scientists, psychologists, geologists, historians, archaeologists   put to work in order to better understand what they want to know, how to go about answering it, and what their findings need to consider to be as accurate as possible.
+Contextualization is also a powerful outcome created through the humanities and their use of philosophy, literature, religion, art, music, history, culture, and language to understand and record our world.
+Even with those powerful endorsements, contextualization is also a tool that isn't used nearly enough when data is analyzed and mined for insights   let alone considered when decisions are made around which data to collect (or not) in the first place. Keying in on the nuances under master-status-level things like gender, identity, education, race, religion, family history, personal experiences, and geography is critical when you are looking at controlling for and even avoiding many of the quandaries outlined next to the Jane Goodall photo above.
+Employing methodologies and frameworks from the social sciences and humanities can get at key questions like:
+Who created the data, for what reason, under what conditions, for which purpose? What are the barriers, entry points, and backgrounds that impact their  data exhaust'?
+Who is gathering, analyzing, interpreting, explaining, and visualizing the data   what are their goals, seen and unseen biases, and personal backgrounds they bring to bear on these exercises?
+Who the ultimate audience or audiences? What framing do you have to employ to best communicate the findings   and what happens if they don't understand or agree?
+What impact do things like the current zeitgeist, their geopolitical position in the world, or previously held beliefs play in the audience's willingness to engage? Ability to understand?
+Narration is the art of crafting stories to do things like explain, convince, and empower
+Narration, by definition, is both the action or process of narrating a story and a commentary delivered to accompany something (e.g., movie, broadcast, report, etc.). For the purpose of our Data Literacy exercise, I wish to expand this definition ever so slightly to include the act of developing the story from the data in the first place.
+
+Indisputably one of the greatest storytellers, lecturers, and orators of our time: Mark Twain. Illustration: artist unknown, circa 1866. Accessed via Steam Boat Times.
+Since the dawn of civilization, we have prioritized the craft of narration in our educational systems, our public discourses, and even in our modes of self expression.
+From the early days of scribes writing and orators opining, to the present-today and universal expressions of acting, public speaking, lecturing, debating, interpersonal communications, journalism, journaling, non-fiction and fiction writing: this is one of the most intrinsic and powerful tools our civilization has.
+Therefore, if we are to move from:
+Big Data / Even Bigger Data to More Meaningful Data
+Data Science to Data Literacy
+… we must employ the art, craft, and science of narration. The danger in not doing this leaves the understanding, application, and adoption of data and Data to those who are skilled in the art of collecting, storing, and parsing it. In my experience in and around the field over the last decade, at best you will get an academically-presented assessment and at worst, you will get an obtuse,  inside baseball' report.
+Bring in those who are schooled in the art of telling stories! Embrace the English majors, philosophers, and journalists of the world as equals! By doing so, you will create more accessibility and therefore more engagement with your data. For an interesting and related perspective, I highly recommend checking out the words and talks by Google's former Philosopher in Residence and 4x-exited entrepreneur, Dr.Damon Horowitz (who also has a B.A. from Columbia; M.S. from MIT Media Lab; Philosophy Ph.D. from Standford).
+“[I]f I really hoped to make major progress in AI, the best place to do this wouldn't be another AI lab. If I really wanted to build a better thinker, I should go study philosophy. […] I quit my technology job to get a Ph.D. in philosophy. And that was one of the best decisions I ever made.”   Dr. Damon Horowitz in the Chronicle for Higher Education
+Design is a process of making complex things understandable
+Design a wonderful tool for communication, because it doesn't require a minimum level of functional literacy to understand it   it teaches to the student and, if done well over time, can help the illiterate become literate. Design is storytelling. Design is clarity. Design is empathy. Design is representational. Design is intentional. Design is meaning-making, and design is meaningful. And it's been that way since early humans first converted abstract thoughts and memories into concrete messages by painting them on cave walls. Design is a major facet of humanity: it's how we make the inhuman world more human. As Victor Papanek wrote in his seminal 1971 book Design for the Real World: Human Ecology and Social Change, “The only important thing about design is how it relates to people.” On that note, I believe the only important thing about Data is how it empowers people.
+It's not the volume of your numbers, it's how you use them
+Data isn't particularly fun or interesting right now, but it can be, especially with the help of design and visualization. When we combine Data with meaning (story) and intention, we get better, smarter, faster, and more reliably predictive decision making. When we do so with clarity, conscientiousness, and empathy for our audience, we get more attention, more engagement, and less frustration.
+If we collect the right data; filter, analyze, and contextualize them intelligently; and narrate and visualize them based on the right set of logic, then data and Data can be transformative in so many aspects of society. What's the right logic to employ? It's our very best attempt to establish an elegant concordance between data as logical evidence, data as supporting characters in a story, visualized data as stimuli to engage the audience, and contextualized data to control for bias when possible and to always give perspective.
+From public policy to sports to finance to health to economics to businesses to citizens to elected officials to education… so many aspects of our individual lives can and will be made better through including more disciplines in the science of data as it evolves to become a literacy of data. Embedded in the latter is the former (i.e., math and technology), but extended to include the social sciences and humanities.
+These shifts will also lead to enabling and empowering a broader base of citizens to bring their educational and professional expertise to bear on two of the most important and powerful tools we have to better humanity: technology and Even Bigger Data.

@@ -1,0 +1,108 @@
+Journal of eScience Librarianship
+Volume 3   Issue 1
+
+Article 6
+
+December 2014
+
+What is Data Literacy?
+Elaine R. Martin
+University of Massachusetts Medical School, Elaine.martin@umassmed.edu
+
+Follow this and additional works at: http://escholarship.umassmed.edu/jeslib
+Part of the Library and Information Science Commons
+
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0
+License.
+Recommended Citation
+Martin, Elaine R.. (2014). "What is Data Literacy?." Journal of eScience Librarianship 3(1): Article 6. http://dx.doi.org/10.7191/
+jeslib.2014.1069
+
+This material is brought to you by eScholarship@UMMS. It has been accepted for inclusion in Journal of eScience Librarianship by an authorized
+administrator of eScholarship@UMMS. For more information, please contact Lisa.Palmer@umassmed.edu.
+
+JESLIB 2014; 3(1): 1-2
+doi:10.7191/jeslib.2014.1069
+
+Editorial
+What is Data Literacy?
+Elaine R. Martin, DA, Director of Library Services
+University of Massachusetts Medical School, Worcester, MA, USA
+What is data literacy? Why is data literacy
+important? Data literacy is “the ability to
+read, create, and communicate data as information” (Wikipedia). The evolutionary role of
+the librarian in offering data literacy services
+  including discussion about the skills needed by students and researchers for data literacy and development of effective instructional content, methods, and formats   continues to evolve. What is clear is that data literacy services offer librarians an opportunity to
+expand their role in the research enterprise
+within an institution.
+As research funders in the U.S., the U.K.,
+and Canada are increasingly mandating
+open access to research data, researchers 
+responsibilities towards managing their data
+are changing. Researchers are being required to improve and enhance their research data management skills and practices. By providing research data literacy services and instructional programs, librarians
+can engage with the biomedical research
+community within their institutions in new
+ways. But exactly what kinds of data literacy
+services can librarians offer? How can librarians successfully engage with faculty,
+students, and researchers in order to offer
+and market these instructional programs?
+The answers are varied and many. The articles in this issue of the JESLB are designed
+to offer some guidance to those librarians
+interested in offering research data literacy
+
+services in their institutions. These articles
+highlight practical resources and strategies
+for offering one or more in-person or online
+courses to researchers, students and librarians on the topic of best practices for scientific research data management.
+The New England Collaborative Data Management Curriculum (NECDMC) is one example of a data management curriculum.
+Designed collaboratively by librarians from
+New England academic intuitions, it was created for the purpose of using one or more
+modules to instruct other librarians and researchers about the need for, and use of,
+good research data management practices.
+The articles by Eaker, Peters, Ishida, O Malley, and Muilenberg discuss how this particular curriculum can be customized and offered in unique ways depending on the institution and target audience. Kafel and her
+colleagues outline how the curriculum was
+designed as well as the challenges of collaborative curriculum development. Cox et al.
+present an alternative approach to collaborative curriculum design developed with the
+University of Sheffield Information School
+and the libraries at the Universities of Leeds,
+Sheffield, and York. Another well-known
+curriculum called MANTRA is an online
+course from the University of Edinburgh.
+Rice discusses its many releases and plans
+for the future.
+
+Correspondence to Elaine Martin: elaine.martin@umassmed.edu
+Keywords: data literacy, data management, data services
+1
+
+JESLIB 2014; 3(1): 1-2
+doi:10.7191/jeslib.2014.1069
+
+Building data services goes hand in hand
+with developing data literacy instruction.
+While there is growing discussion in the literature about how to develop data services in
+academic libraries, Coates offers specific
+strategies and resources for building relationships with busy researchers, demonstrating the value of a librarian on the research
+team, and advocating for good research
+practices. Mischo and his colleagues, on the
+other hand, focus one type of data service  
+assisting researchers in writing their NSF
+data management plans. After reviewing
+funded and non-funded NSF grants with data management plans and their differences,
+it appears that researchers do respond positively to librarians offering assistance in identifying storage mechanisms.
+The time is ripe to develop the role of librarians in defining and delivering data information literacy programs and services. Instructing researchers, students, and librarians in data literacy is truly an emerging area
+of need and one in which librarians can play
+a significant role. As evidenced by the articles in this special issue of the Journal of
+eScience Librarianship, librarians are poised
+to expand their roles as providers of data
+information literacy. I hope this issue will be
+a useful point of reference for the development of curriculum and dissemination strategies.
+All content in Journal of eScience Librarianship, unless otherwise noted,
+is licensed under a Creative Commons
+Attribution-Noncommercial-Share Alike License
+http://creativecommons.org/licenses/by-ncsa/3.0/
+ISSN 2161-3974
+
+2
+
+
